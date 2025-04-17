@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\TDLSite.csproj": {}
+    "/Users/willbarlow/Repositories/Theodore-Lessing-Website/TDLSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\TDLSite.csproj": {
+    "/Users/willbarlow/Repositories/Theodore-Lessing-Website/TDLSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\TDLSite.csproj",
+        "projectUniqueName": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/TDLSite.csproj",
         "projectName": "TDLSite",
-        "projectPath": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\TDLSite.csproj",
-        "packagesPath": "C:\\Users\\thewi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\obj\\",
+        "projectPath": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/TDLSite.csproj",
+        "packagesPath": "/Users/willbarlow/.nuget/packages/",
+        "outputPath": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thewi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/willbarlow/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be40695037e19c560a951441b0957f10f0db405f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
