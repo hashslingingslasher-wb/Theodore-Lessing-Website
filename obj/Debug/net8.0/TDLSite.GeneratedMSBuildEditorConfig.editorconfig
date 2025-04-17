@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TDLSite
+build_property.RootNamespace = TDLSite
+build_property.ProjectDir = C:\Users\thewi\Desktop\Theodore-Lessing-Website\v12.12.24\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thewi\Desktop\Theodore-Lessing-Website\v12.12.24
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutFoundation/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRGb3VuZGF0aW9uXEFib3V0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutFoundation/Events.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRGb3VuZGF0aW9uXEV2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutFoundation/Grants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRGb3VuZGF0aW9uXEdyYW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutFoundation/People.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRGb3VuZGF0aW9uXFBlb3BsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutFoundation/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRGb3VuZGF0aW9uXFByb2plY3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/AdaBiography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXEFkYUJpb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/BiographicalTimeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXEJpb2dyYXBoaWNhbFRpbWVsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/NewsClips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXE5ld3NDbGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/Papers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXFBhcGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/PhotoGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXFBob3RvR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/SampleWork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXFNhbXBsZVdvcmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/AboutTheodor/ShortBiography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRUaGVvZG9yXFNob3J0QmlvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Email/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Email/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Email/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRG9uYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Email/Submit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcU3VibWl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Email/_ContactFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcX0NvbnRhY3RGb3JtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/LinksResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaW5rc1Jlc291cmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/MythicalAfterimages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeXRoaWNhbEFmdGVyaW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/Schopenhauer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTY2hvcGVuaGF1ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Home/Terms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/_AdobePDFScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG9iZVBERlNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/_PartialAdobePDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQWRvYmVQREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/_PartialDynamic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRHluYW1pYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thewi/Desktop/Theodore-Lessing-Website/v12.12.24/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tzfdmyvtb1

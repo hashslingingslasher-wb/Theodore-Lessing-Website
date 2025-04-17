@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Grants";
+}
+<div class="row d-flex justify-content-center">
+    <h1 class="mb-4 text-center">Grants</h1>
+    <hr class="hr hr-blurry" />
+    <div id="dynamic-cont" class="col-5">
+        <p>The Theodor Lessing Foundation may provide grants as follows:</p>
+        <ul>
+            <li>
+                To writers, translators, artists, publishers, archivists, and organizers of material directly related to
+                Theodor
+                and/or
+                Ada Lessing;
+            </li>
+            <li>
+                To writers, translators, artists, archivists, and publishers of material related to German-Jewish
+                studies,
+                philosophy, and/or historiography;
+            </li>
+            <li>
+                To writers, artists, and academics who have been censored or otherwise targeted for
+                suppression or exclusion by their dominant political institutions and regimes;
+            </li>
+            <li>
+                To charitable or similar nonprofit
+                entities involved in German or Jewish studies, philosophical studies and historiography, to promote
+                their own
+                charitable
+                purposes or for special events and publications;
+            </li>
+            <li>
+                To filmmakers, artists, or other parties pursuing projects with any of
+                the foregoing themes.
+            </li>
+        </ul>
+        <p>If you or your project does not fall within the above categories, grant applications may still be
+            considered on a case-by-case basis.</p>
+    </div>
+    <div class="col-1">
+
+    </div>
+    <div id="dynamic-img" class="col-3">
+        <img src="/images/primary/Ada Lessing 1950s.jpeg " class="img-responsive">
+    </div>
+</div>
+<script>
+    var width = getWindowW()
+    if (width <= 600) {
+        const div = document.getElementById('dynamic-img');
+        div.classList.remove('col-3');
+        div.classList.add('p-5');
+        const div2 = document.getElementById('dynamic-cont');
+        div2.classList.remove('col-5');
+        div2.classList.add('p-5');
+    }
+</script>

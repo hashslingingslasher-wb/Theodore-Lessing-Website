@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row d-flex justify-content-center">
+    <h1 class="text-center mb-5">The Theodor Lessing Foundation</h1>
+    <div id="dynamic-cont" class="col-5">
+        <p>Founded to preserve and promote the scholarship of Theodor & Ada
+            Lessing and to
+            provide
+            discreet support for similarly-situated, contemporary writers, artists, and educators
+            presently
+            challenged by
+            authoritarian structures in their home communities.
+        </p>
+        <p>
+            The Theodor Lessing Foundation is a US based non-profit entity qualified as
+            tax-exempt under
+            IRC 501(c)(3)
+            to
+            generally provide financial support and assistance on a global basis for literary, artistic,
+            educational,
+            religious, charitable, and scientific purposes.
+
+        </p>
+    </div>
+    <div class="col-1">
+    </div>
+    <div id="dynamic-img" class="col-3">
+        <img id="tl-drawing" src=" /images/TL Drawing.png" class="img-responsive" style="width: 300px;">
+    </div>
+
+</div>
+<script>
+    var width = getWindowW()
+    if (width <= 600) {
+        const div = document.getElementById('dynamic-img');
+        div.classList.remove('col-3');
+        div.classList.add('p-5');
+        const div2 = document.getElementById('dynamic-cont');
+        div2.classList.remove('col-5');
+        div2.classList.add('p-5');
+    }
+</script>

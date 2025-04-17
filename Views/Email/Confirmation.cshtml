@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<h2>Confirmation</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">
+        @ViewBag.Message
+    </div>
+}
+
+<a href="@Url.Action("Index", "Home")" class="btn tl-btn">Back to Home</a>
+

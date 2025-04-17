@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Events";
+}
+
+<div class="row d-flex justify-content-center">
+    <h1 class="mb-4 text-center">Events</h1>
+    <hr class="hr hr-blurry" />
+    <div id="dynamic-cont" class="col-4">
+        <ul class="fs-1">
+            <li>NYC Conference (2026/7)</li>
+            <li>More Coming Soon!</li>
+        </ul>
+    </div>
+    <div id="dynamic-img" class="col-3">
+        <img src="/images/primary/TL at Zionist Congress0001.jpg" class="img-responsive">
+    </div>
+</div>
+<script>
+    var width = getWindowW()
+    if (width <= 600) {
+        const div = document.getElementById('dynamic-img');
+        div.classList.remove('col-3');
+        div.classList.add('p-5');
+        const div2 = document.getElementById('dynamic-cont');
+        div2.classList.remove('col-4');
+        div2.classList.add('p-5');
+        div2.classList.add('text-center');
+    }
+</script>

@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Submit";
+}
+<div class="row justify-content-center">
+    <div id="dynamic-cont" class="col-3">
+        <h1>Fill in the below information to submit articles or materials:</h1>
+        <partial name="_ContactFormPartial" />
+    </div>
+    <div class="col-1">
+    </div>
+    <div id="dynamic-img" class="col-3">
+        <img src="/images/IMG_7344.jpeg" class="w-100 shadow-1-strong rounded mb-4 img-responsive" alt="alt" />
+    </div>
+</div>
+<script>
+    var width = getWindowW()
+    if (width <= 600) {
+        const div = document.getElementById('dynamic-img');
+        div.classList.remove('col-3');
+        div.classList.add('p-5');
+        const div2 = document.getElementById('dynamic-cont');
+        div2.classList.remove('col-3');
+        div2.classList.add('p-5');
+    }
+</script>

@@ -1,0 +1,15 @@
+@model List<Article>
+@{
+    ViewData["Title"] = "Sample Work";
+}
+<div class="container text-center">
+    <h1 class="mb-4">Sample Work of Theodor Lessing</h1>
+    <hr class="hr hr-blurry" />
+    <div class="pdf-containers">
+        @foreach (var article in Model)
+        {
+            @await Html.PartialAsync("_PartialAdobePDF", article)
+        }
+    </div>
+</div>
+<partial name="_AdobePDFScript"></partial>

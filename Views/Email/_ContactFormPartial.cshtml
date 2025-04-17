@@ -1,0 +1,32 @@
+@model ContactModel;
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div>
+        @ViewBag.Message
+    </div>
+}
+<form asp-action="SendEmail" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Subject"></label>
+        <input asp-for="Subject" value="New Contact" class="form-control"/>
+    </div>
+
+    <div>
+        <label asp-for="Body"></label>
+        <textarea asp-for="Body" class="form-control"></textarea>
+        <span asp-validation-for="Body" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn tl-btn">Send</button>
+</form>

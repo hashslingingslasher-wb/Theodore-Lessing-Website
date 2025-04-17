@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "People";
+}
+<div class="row d-flex justify-content-center">
+    <h1 class="text-center mb-4">People</h1>
+    <hr class="hr hr-blurry" />
+
+    <p class="mb-3">
+        The Theodor Lessing Foundation was founded and is directed by <strong>George A. Phocas</strong>, a U.S. attorney
+        and
+        great-grandson of Ada & Theodor Lessing through their daughter Ruth. The Foundation is also supported by
+        an
+    </p>
+
+    <strong>Advisory Board:</strong>
+    <ul id="dynamic-cont" class=" col-5">
+
+        <li>
+            <strong>Katrin Phocas</strong> (ne&#769 Gorny) is the granddaughter of Ada &amp; Theodor Lessing.
+        </li>
+        <li>
+            <strong>Dr. Rainer Marwedel</strong> has written extensively on Theodor
+            Lessing (including the primary biography of
+            Lessing) and
+            has
+            been compiling and editing his work for decades. <a
+                href="https://theodorlessingedition.de/">theodorlessingedition.de</a>
+        </li>
+        <li>
+            <strong>Herman Simissen</strong> is an assistant professor at the Open University of the Netherlands,
+            Nijmegen /
+            Heerlen and has
+            written
+            extensively on Theodor Lessing’s philosophical legacy <a
+                href="https://brill.com/display/title/60304?language=en">(Brill Book)</a> and Theodor and Ada
+            Lessing
+            generally.
+        </li>
+    </ul>
+    <div id="dynamic-img" class="col-4">
+        <img src="/images/primary/TL Last Photo.jpg" class="img-fluid" alt="alt" />
+    </div>
+</div>
+<script>
+    var width = getWindowW()
+    if (width <= 600) {
+        const div = document.getElementById('dynamic-img');
+        div.classList.remove('col-4');
+        div.classList.add('p-5');
+        const div2 = document.getElementById('dynamic-cont');
+        div2.classList.remove('col-5');
+        div2.classList.add('p-5');
+    }
+</script>

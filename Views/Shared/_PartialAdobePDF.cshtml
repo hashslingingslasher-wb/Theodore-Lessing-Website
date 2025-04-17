@@ -1,0 +1,12 @@
+@model Article
+
+<div class="pdf-item">
+    <h3>@Model.Title</h3>
+    <p id="author">@Model.Author</p>
+    <button class="btn tl-btn mb-3"
+        onclick="togglePdfView('@Model.ID','@Model.Title', '@Model.FileName')">View
+        PDF</button>
+    <div id="@Model.ID" class="pdf-view-container pdf-container" style="display:none;">
+    </div>
+</div>
+<hr class="hr hr-blurry" />

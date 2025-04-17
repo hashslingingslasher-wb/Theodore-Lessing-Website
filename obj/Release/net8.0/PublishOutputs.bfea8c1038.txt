@@ -1,0 +1,11 @@
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\TDLSite.exe
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\appsettings.json
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\TDLSite.dll
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\TDLSite.deps.json
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\TDLSite.runtimeconfig.json
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\TDLSite.pdb
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\Stripe.net.dll
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\thewi\Desktop\Theodore-Lessing-Website\TDLSite\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll

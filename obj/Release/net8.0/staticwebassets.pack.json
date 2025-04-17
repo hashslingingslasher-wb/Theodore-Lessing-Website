@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\TDLSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TDLSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\BiographicalTimeline.csv",
+      "PackagePath": "staticwebassets\\BiographicalTimeline.csv"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\AL-Simissen-Bio-Final.pdf",
+      "PackagePath": "staticwebassets\\files\\AL-Simissen-Bio-Final.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\About-Theodor-Lessing.Final.pdf",
+      "PackagePath": "staticwebassets\\files\\About-Theodor-Lessing.Final.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\AdaLessingBio.pdf",
+      "PackagePath": "staticwebassets\\files\\AdaLessingBio.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Arthur Heller Memorial0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Arthur Heller Memorial0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Czech Announcement0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Czech Announcement0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Daily Herald.Lessing Murder.Color.pdf",
+      "PackagePath": "staticwebassets\\files\\Daily Herald.Lessing Murder.Color.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Daily Mail Article.Murder0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Daily Mail Article.Murder0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Daily Telegraph Article.Murder0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Daily Telegraph Article.Murder0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Danish Article.Murder0001.pdf",
+      "PackagePath": "staticwebassets\\files\\Danish Article.Murder0001.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Haarman - Story of a Werewolf.pdf",
+      "PackagePath": "staticwebassets\\files\\Haarman - Story of a Werewolf.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Hebrew Article.Murder0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Hebrew Article.Murder0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Hindenburg Fallout0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Hindenburg Fallout0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Jewish Daily Bulletin.pdf",
+      "PackagePath": "staticwebassets\\files\\Jewish Daily Bulletin.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\MorningPostMurder.pdf",
+      "PackagePath": "staticwebassets\\files\\MorningPostMurder.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Murder Headline.Jewish News0000.pdf",
+      "PackagePath": "staticwebassets\\files\\Murder Headline.Jewish News0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Once and Never Again.Preface.Hannover.Final.pdf",
+      "PackagePath": "staticwebassets\\files\\Once and Never Again.Preface.Hannover.Final.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Prague Criminal Pros Article.p10000.pdf",
+      "PackagePath": "staticwebassets\\files\\Prague Criminal Pros Article.p10000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Prague Funeral Article.pdf",
+      "PackagePath": "staticwebassets\\files\\Prague Funeral Article.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Privacy Policy.html",
+      "PackagePath": "staticwebassets\\files\\Privacy Policy.html"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\The Expensive Prof Lessing0000.pdf",
+      "PackagePath": "staticwebassets\\files\\The Expensive Prof Lessing0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\The Times Article.Murder0000.pdf",
+      "PackagePath": "staticwebassets\\files\\The Times Article.Murder0000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\TheodorLessingBio.pdf",
+      "PackagePath": "staticwebassets\\files\\TheodorLessingBio.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\Vortrag_Spazierstock-Schopenhauer.pdf",
+      "PackagePath": "staticwebassets\\files\\Vortrag_Spazierstock-Schopenhauer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\between-jewish-self.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\between-jewish-self.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\discipleship-and-dissent.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\discipleship-and-dissent.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\mythical-afterimages-simissen.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\mythical-afterimages-simissen.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\noise-and-degeneration.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\noise-and-degeneration.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\philosophy-on-internet-marwedel.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\philosophy-on-internet-marwedel.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\research-papers\\spazierstock.pdf",
+      "PackagePath": "staticwebassets\\files\\research-papers\\spazierstock.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\sample-work\\haarman.pdf",
+      "PackagePath": "staticwebassets\\files\\sample-work\\haarman.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\sample-work\\hindenberg.pdf",
+      "PackagePath": "staticwebassets\\files\\sample-work\\hindenberg.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\sample-work\\never-again.pdf",
+      "PackagePath": "staticwebassets\\files\\sample-work\\never-again.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\files\\schopenhauer.pdf",
+      "PackagePath": "staticwebassets\\files\\schopenhauer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\01182401.JPG",
+      "PackagePath": "staticwebassets\\images\\01182401.JPG"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\DSCF0857.JPG",
+      "PackagePath": "staticwebassets\\images\\DSCF0857.JPG"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7333.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7333.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7335.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7335.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7344.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7344.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7355.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7355.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7398.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7398.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\IMG_7411.jpeg",
+      "PackagePath": "staticwebassets\\images\\IMG_7411.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\TL Drawing.png",
+      "PackagePath": "staticwebassets\\images\\TL Drawing.png"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\TL Last Photo.jpg",
+      "PackagePath": "staticwebassets\\images\\TL Last Photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\TL Ruth.jpg",
+      "PackagePath": "staticwebassets\\images\\TL Ruth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\TL Solo.jpg",
+      "PackagePath": "staticwebassets\\images\\TL Solo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\family.jpg",
+      "PackagePath": "staticwebassets\\images\\family.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\png\\logo-color-bg.png",
+      "PackagePath": "staticwebassets\\images\\png\\logo-color-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\png\\logo-color-nobg.png",
+      "PackagePath": "staticwebassets\\images\\png\\logo-color-nobg.png"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Early Portrait.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Early Portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Lessing 1930s.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Lessing 1930s.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Lessing 1950s.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Lessing 1950s.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Lessing with Grandchildren.Late 1940s.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Lessing with Grandchildren.Late 1940s.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Lessing.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Lessing.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Ada Lessing_circa_1900_Abbenthern.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\Ada Lessing_circa_1900_Abbenthern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\AdaandTheodorLessing.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\AdaandTheodorLessing.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Big Thoughts0000.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\Big Thoughts0000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Lessing Memorial at Murder Site.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Lessing Memorial at Murder Site.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Lessing with Dog.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Lessing with Dog.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Marienbad Murder Site Residence.JPG",
+      "PackagePath": "staticwebassets\\images\\primary\\Marienbad Murder Site Residence.JPG"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Signage at Lessing Murder Site.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Signage at Lessing Murder Site.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\T.Lessing at 22.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\T.Lessing at 22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL & Daughter Ruth.Gorny Photo.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL & Daughter Ruth.Gorny Photo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL & Ruth.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL & Ruth.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL Last Photo.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL Last Photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL Solo.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL Solo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL at Zionist Congress0001.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL at Zionist Congress0001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\TL-family.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\TL-family.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor & Ada & Ruth Lessing.family.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor & Ada & Ruth Lessing.family.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing 1920s.JPG",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing 1920s.JPG"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing Grave.JPG",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing Grave.JPG"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing at 20.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing at 20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing in the Garden.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing in the Garden.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing with Daughters Judith and Miriam.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing with Daughters Judith and Miriam.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor Lessing with Friends Early 1900s.heic",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor Lessing with Friends Early 1900s.heic"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\Theodor, Ada, Ruth.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\Theodor, Ada, Ruth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\With Daughters Judith and Miriam.heic",
+      "PackagePath": "staticwebassets\\images\\primary\\With Daughters Judith and Miriam.heic"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\hein-gorny.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\hein-gorny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\lessing-walking-stick.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\lessing-walking-stick.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\marienbad-cemetary.jpeg",
+      "PackagePath": "staticwebassets\\images\\primary\\marienbad-cemetary.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\murder-desk.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\murder-desk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\images\\primary\\theodor-lessing.young.jpg",
+      "PackagePath": "staticwebassets\\images\\primary\\theodor-lessing.young.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\thewi\\Desktop\\Theodore-Lessing-Website\\v12.12.24\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.TDLSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.TDLSite.props",
+      "PackagePath": "build\\TDLSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TDLSite.props",
+      "PackagePath": "buildMultiTargeting\\TDLSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.TDLSite.props",
+      "PackagePath": "buildTransitive\\TDLSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

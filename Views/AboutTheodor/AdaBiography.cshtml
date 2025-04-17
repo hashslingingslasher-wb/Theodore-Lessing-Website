@@ -1,0 +1,19 @@
+@model Article
+@{
+    ViewData["Title"] = "About Ada Lessing";
+}
+<div class="text-center">
+    <h1>@Model.Title</h1>
+    <aside>By @Model.Author</aside>
+    <div id="adobe-dc-view"></div>
+</div>
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function () {
+        var adobeDCView = new AdobeDC.View({ clientId: "e0c28e15e1694ced8e919e7d52b2bc0c", divId: "adobe-dc-view" });
+        adobeDCView.previewFile({
+            content: { location: { url: "/files/AdaLessingBio.pdf" } },
+            metaData: { fileName: "An Undesired Survivor" }
+        }, { embedMode: "IN_LINE" });
+    });
+</script>
