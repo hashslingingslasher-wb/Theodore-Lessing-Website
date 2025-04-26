@@ -1,9 +1,9 @@
 @model List<Article>
 @{
-    ViewData["Title"] = "Additional Academic Articles";
+    ViewData["Title"] = "Research Papers/Articles";
 }
 <div class="container text-center">
-    <h1 class="mb-4">Additional Academic Articles</h1>
+    <h1 class="mb-4">@ViewData["Title"]</h1>
     <hr class="hr hr-blurry" />
     <div class="pdf-containers">
         @foreach (var article in Model)

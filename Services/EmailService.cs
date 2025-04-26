@@ -8,17 +8,20 @@ namespace Services
 {
     public class EmailService : IEmailService
     {
-        private readonly SmtpSettings _smtpSettings;
+        private readonly ISmtpService _smtpService;
+
         private readonly ILogger<EmailService> _logger;
 
-        public EmailService(IOptions<SmtpSettings> smtpSettings, ILogger<EmailService> logger)
+        public EmailService(ISmtpService smtpService, ILogger<EmailService> logger)
         {
-            _smtpSettings = smtpSettings.Value;
+            _smtpService = smtpService;
             _logger = logger;
         }
 
         public async Task<bool> SendEmailAsync(string userEmail, string name, string subject, string body)
         {
+            var _smtpSettings = _smtpService.GetSmtpSettings();
+            var client = new SmtpClient();
             try
             {
                 var message = new MimeMessage();
@@ -26,15 +29,13 @@ namespace Services
                 message.To.Add(new MailboxAddress("info", _smtpSettings.Username));
                 message.Subject = subject;
                 message.Body = new TextPart("plain") { Text = $"New message from {userEmail}\n" + body };
+                
+                var options = _smtpSettings.UseSsl ? SecureSocketOptions.StartTls : SecureSocketOptions.None;
+                await client.ConnectAsync(_smtpSettings.Server, _smtpSettings.Port, SecureSocketOptions.StartTls);
+                await client.AuthenticateAsync(_smtpSettings.Username, _smtpSettings.Password);
+                await client.SendAsync(message);
 
-                using (var client = new SmtpClient())
-                {
-                    var options = _smtpSettings.UseSsl ? SecureSocketOptions.StartTls : SecureSocketOptions.None;
-                    await client.ConnectAsync(_smtpSettings.Server, _smtpSettings.Port, SecureSocketOptions.StartTls);
-                    await client.AuthenticateAsync(_smtpSettings.Username, _smtpSettings.Password);
-                    await client.SendAsync(message);
-                    await client.DisconnectAsync(true);
-                }
+
                 return true;
             }
             catch (Exception ex)
@@ -42,9 +43,11 @@ namespace Services
                 _logger.LogError(ex.Message);
                 return false;
             }
-
+            finally
+            {
+                await client.DisconnectAsync(true);
+            }
         }
-
     }
     public interface IEmailService
     {

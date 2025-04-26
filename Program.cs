@@ -17,6 +17,10 @@ public class Program
     {
         weBuilder.ConfigureAppConfiguration((context,config) => 
         {
+            if (context.HostingEnvironment.IsDevelopment())
+            {
+                config.AddUserSecrets<Program>();
+            }
             config.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
             config.AddEnvironmentVariables();          
         })
@@ -32,8 +36,8 @@ public class Startup
     public IConfiguration Configuration {get; }
     public void ConfigureServices(IServiceCollection services)
     {
-        services.Configure<SmtpSettings>(Configuration.GetSection("Smtp"));
         services.AddSingleton<IEmailService, EmailService>();
+        services.AddSingleton<ISmtpService, SmtpService>();
         services.AddControllersWithViews();
         services.AddLogging();
        

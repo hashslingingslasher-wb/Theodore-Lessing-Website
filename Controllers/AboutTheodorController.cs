@@ -20,6 +20,7 @@ public class AboutTheodorController : Controller
     {
         return View();
     }
+    // May be deprtecated -> see new implementation in Papers()
     public List<Article> GetArticles()
     {
         List<Article> articles = new List<Article>();
@@ -68,10 +69,20 @@ public class AboutTheodorController : Controller
         articles.Add(art6);
         return articles;
     }
-    public IActionResult Papers(string toggleDiv)
+    public IActionResult Papers()
     {
-        ViewBag.isVisible = toggleDiv == "true"; // for toggling text views
-        return View(GetArticles());
+        ViewBag.isVisible = true; // for toggling text views
+        var articles = new List<Article>{
+            new Article { Title = "Mythical Afterimages", Author = "Herman Simissen", FileName = "/files/research-papers/mythical-afterimages-simissen.pdf"},
+            new Article { Title = "Philosophy on the Internet", Author = "Dr. Rainer Marwedel", FileName = "/files/research-papers/philosophy-on-internet-marwedel.pdf"},
+            new Article { Title = "Spazierstock-Schopenhauer", Author = "Theodor Lessing", FileName = "/files/research-papers/spazierstock.pdf"},
+            new Article { Title = "Theodor Lessing - Between Jewish Self and Zionism", Author = "Lawrence Baron", FileName = "/files/research-papers/between-jewish-self.pdf"},
+            new Article { Title = "Noise and Degeneration: Theodor Lessings Crusade for Quiet", Author = "Lawrence Baron", FileName = "/files/research-papers/noise-and-degeneration.pdf"},
+            new Article { Title = "Discipleship and Dissent", Author = "Lawrence Baron", FileName = "/files/research-papers/discipleship-and-dissent.pdf" },
+            new Article { Title = "The Prophet", Author = "Günter Kunert", FileName = "/files/the-prophet-gunter-kunert.pdf"},
+            new Article { Title = "The Right to Silence: Fighting Noise in the Early Twentieth Century", Author = "Herman Simissen", FileName = "the-right-to-silence-herman-simissen.pdf"}
+        };
+        return View(articles);
     }
     public IActionResult NewsClips()
     {
