@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d35ab148834404366fe6a9e895a1bddb2b848f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7976e610e50205d9e61364a3965ea39adeb3c562")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDLSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

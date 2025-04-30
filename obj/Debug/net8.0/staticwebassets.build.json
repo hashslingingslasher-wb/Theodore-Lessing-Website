@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XJkoRaBwx3oRLe5HXhZqWe6nR1TYUonS85XxaaLvnck=",
+  "Hash": "UNsqxHo9eH6WoPHLf8lBDDtvTYAFZS/xAoONyGUMhBE=",
   "Source": "TDLSite",
   "BasePath": "_content/TDLSite",
   "Mode": "Default",
@@ -986,6 +986,25 @@
       "OriginalItemSpec": "wwwroot/images/png/logo-color-nobg.png"
     },
     {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Ada Early Portrait.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/Ada Early Portrait.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/Ada Early Portrait.jpeg"
+    },
+    {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Ada Early Portrait.jpg",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
@@ -1119,6 +1138,25 @@
       "OriginalItemSpec": "wwwroot/images/primary/AdaandTheodorLessing.jpeg"
     },
     {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Big Thoughts.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/Big Thoughts.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/Big Thoughts.jpeg"
+    },
+    {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Big Thoughts0000.jpg",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
@@ -1176,6 +1214,25 @@
       "OriginalItemSpec": "wwwroot/images/primary/Lessing Memorial at Murder Site.jpeg"
     },
     {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Lessing with Ada and Ruth.1927.Photo by Hein Gorny.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/Lessing with Ada and Ruth.1927.Photo by Hein Gorny.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/Lessing with Ada and Ruth.1927.Photo by Hein Gorny.jpeg"
+    },
+    {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Lessing with Dog.jpeg",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
@@ -1212,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/primary/lessing-walking-stick.jpeg"
+    },
+    {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Marienbad Jewish Cemetary Sign.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/Marienbad Jewish Cemetary Sign.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/Marienbad Jewish Cemetary Sign.jpeg"
     },
     {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Marienbad Murder Site Residence.JPG",
@@ -1366,6 +1442,25 @@
       "OriginalItemSpec": "wwwroot/images/primary/Theodor Lessing at 20.jpeg"
     },
     {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Theodor Lessing Grave.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/Theodor Lessing Grave.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/Theodor Lessing Grave.jpeg"
+    },
+    {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Theodor Lessing Grave.JPG",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
@@ -1518,12 +1613,12 @@
       "OriginalItemSpec": "wwwroot/images/primary/TL & Ruth.jpeg"
     },
     {
-      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL at Zionist Congress0001.jpg",
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL Last Photo.jpeg",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
       "BasePath": "_content/TDLSite",
-      "RelativePath": "images/primary/TL at Zionist Congress0001.jpg",
+      "RelativePath": "images/primary/TL Last Photo.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1534,7 +1629,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/primary/TL at Zionist Congress0001.jpg"
+      "OriginalItemSpec": "wwwroot/images/primary/TL Last Photo.jpeg"
     },
     {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL Last Photo.jpg",
@@ -1575,6 +1670,25 @@
       "OriginalItemSpec": "wwwroot/images/primary/TL Solo.jpg"
     },
     {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL- Zionist Congress0001.jpeg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/TL- Zionist Congress0001.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/TL- Zionist Congress0001.jpeg"
+    },
+    {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL-family.jpeg",
       "SourceId": "TDLSite",
       "SourceType": "Discovered",
@@ -1592,6 +1706,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/primary/TL-family.jpeg"
+    },
+    {
+      "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL-Zionist Congress0001.jpg",
+      "SourceId": "TDLSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/",
+      "BasePath": "_content/TDLSite",
+      "RelativePath": "images/primary/TL-Zionist Congress0001.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/primary/TL-Zionist Congress0001.jpg"
     },
     {
       "Identity": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/With Daughters Judith and Miriam.heic",

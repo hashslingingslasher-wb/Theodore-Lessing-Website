@@ -217,6 +217,10 @@
       "PackagePath": "staticwebassets/images/png/logo-color-nobg.png"
     },
     {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Ada Early Portrait.jpeg",
+      "PackagePath": "staticwebassets/images/primary/Ada Early Portrait.jpeg"
+    },
+    {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Ada Early Portrait.jpg",
       "PackagePath": "staticwebassets/images/primary/Ada Early Portrait.jpg"
     },
@@ -245,6 +249,10 @@
       "PackagePath": "staticwebassets/images/primary/AdaandTheodorLessing.jpeg"
     },
     {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Big Thoughts.jpeg",
+      "PackagePath": "staticwebassets/images/primary/Big Thoughts.jpeg"
+    },
+    {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Big Thoughts0000.jpg",
       "PackagePath": "staticwebassets/images/primary/Big Thoughts0000.jpg"
     },
@@ -253,8 +261,16 @@
       "PackagePath": "staticwebassets/images/primary/Lessing Memorial at Murder Site.jpeg"
     },
     {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Lessing with Ada and Ruth.1927.Photo by Hein Gorny.jpeg",
+      "PackagePath": "staticwebassets/images/primary/Lessing with Ada and Ruth.1927.Photo by Hein Gorny.jpeg"
+    },
+    {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Lessing with Dog.jpeg",
       "PackagePath": "staticwebassets/images/primary/Lessing with Dog.jpeg"
+    },
+    {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Marienbad Jewish Cemetary Sign.jpeg",
+      "PackagePath": "staticwebassets/images/primary/Marienbad Jewish Cemetary Sign.jpeg"
     },
     {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Marienbad Murder Site Residence.JPG",
@@ -277,6 +293,10 @@
       "PackagePath": "staticwebassets/images/primary/TL & Ruth.jpeg"
     },
     {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL Last Photo.jpeg",
+      "PackagePath": "staticwebassets/images/primary/TL Last Photo.jpeg"
+    },
+    {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL Last Photo.jpg",
       "PackagePath": "staticwebassets/images/primary/TL Last Photo.jpg"
     },
@@ -285,8 +305,12 @@
       "PackagePath": "staticwebassets/images/primary/TL Solo.jpg"
     },
     {
-      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL at Zionist Congress0001.jpg",
-      "PackagePath": "staticwebassets/images/primary/TL at Zionist Congress0001.jpg"
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL- Zionist Congress0001.jpeg",
+      "PackagePath": "staticwebassets/images/primary/TL- Zionist Congress0001.jpeg"
+    },
+    {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL-Zionist Congress0001.jpg",
+      "PackagePath": "staticwebassets/images/primary/TL-Zionist Congress0001.jpg"
     },
     {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/TL-family.jpeg",
@@ -303,6 +327,10 @@
     {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Theodor Lessing Grave.JPG",
       "PackagePath": "staticwebassets/images/primary/Theodor Lessing Grave.JPG"
+    },
+    {
+      "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Theodor Lessing Grave.jpeg",
+      "PackagePath": "staticwebassets/images/primary/Theodor Lessing Grave.jpeg"
     },
     {
       "Id": "/Users/willbarlow/Repositories/Theodore-Lessing-Website/wwwroot/images/primary/Theodor Lessing at 20.jpeg",
